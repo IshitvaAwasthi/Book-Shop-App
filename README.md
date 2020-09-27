@@ -17,6 +17,6 @@
 ### FrontEnd - Tkinter (Tuitorials: https://www.tutorialspoint.com/python/python_gui_programming.htm)
 ### Backend - SQLite
 
-**Design Prototype**
+### **Design Prototype**
 ![Image of Design Prototype](https://github.com/IshitvaAwasthi/Book-Shop-App/blob/master/DesignPrototype.jpg)
 
