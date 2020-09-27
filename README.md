@@ -14,4 +14,4 @@ Update book information,
 Delete a book,
 Close the application.
 
-<img src="F:\ishitva backup\Projects\BookShopApp\DesignPrototype.jpg" alt="Design Prototype"/>
+![Image of Design Prototype](https://github.com/IshitvaAwasthi/Book-Shop-App/blob/master/DesignPrototype.jpg)
