@@ -14,7 +14,8 @@
 5. Delete a book
 6. Close the application
 
-### FrontEnd - Tkinter (Tuitorials: https://www.tutorialspoint.com/python/python_gui_programming.htm)
+### FrontEnd - Tkinter 
+(Tuitorials: https://www.tutorialspoint.com/python/python_gui_programming.htm)
 ### Backend - SQLite
 
 ### **Design Prototype**
