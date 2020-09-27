@@ -13,3 +13,5 @@ Add a book,
 Update book information,
 Delete a book,
 Close the application.
+
+<img src="F:\ishitva backup\Projects\BookShopApp\DesignPrototype.jpg" alt="Design Prototype"/>
